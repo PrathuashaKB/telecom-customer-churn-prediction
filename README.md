@@ -134,6 +134,6 @@ The developed solution achieved **93.83% accuracy using an optimized XGBoost mod
 
 The project highlights the potential of data-driven churn prediction systems to help businesses proactively identify at-risk customers, design targeted retention strategies, and make informed customer relationship management decisions.
 
-#### Suggestions and project improvement are invited!
+**Suggestions and project improvement are invited!**
 
-#### Prathuasha K B
+**Prathuasha K B**
