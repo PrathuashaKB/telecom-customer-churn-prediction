@@ -120,7 +120,7 @@ These insights can help businesses identify high-risk customers and develop targ
 
 ## System Design :
 
-<video src="https://github.com/PrathuashaKB/telecom-customer-churn-prediction/blob/main/images/no_churn_system_design.mp4" width="100%" autoplay loop muted playsinline></video>
+<video src="https://raw.githubusercontent.com/PrathuashaKB/telecom-customer-churn-prediction/main/images/no_churn_system_design.mp4" width="100%" autoplay loop muted playsinline></video>
 
 The system follows an end-to-end machine learning pipeline consisting of:
 
