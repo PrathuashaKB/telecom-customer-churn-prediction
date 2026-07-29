@@ -12,7 +12,7 @@
 
 Customer churn is a critical challenge for telecommunication companies, as retaining existing customers is often more cost-effective than acquiring new ones. By analyzing customer demographics, account information, service subscriptions, usage patterns, and customer support interactions, machine learning models can identify potential churn behaviour and help businesses take proactive retention measures.
 
-This project was developed as an **Industry Client Project** during my **Data Science internship at Rubixe AI**. The project follows an end-to-end Data Science workflow, beginning with data extraction from a **SQL database** and continuing through data preprocessing, exploratory data analysis, feature engineering, machine learning model development, model evaluation, and business insight generation.
+This project was developed as an **Industry Client Project** during my **Data Science Research internship at Rubixe - AI Company**. The project follows an end-to-end Data Science workflow, beginning with data extraction from a **SQL database** and continuing through data preprocessing, exploratory data analysis, feature engineering, machine learning model development, model evaluation, and business insight generation.
 
 The developed solution evaluates customer behaviour and account-level attributes to predict the likelihood of customer churn. The insights generated from the predictive models can support businesses in identifying high-risk customers and developing targeted customer retention strategies to reduce churn, improve customer satisfaction, and increase customer lifetime value.
 
@@ -29,55 +29,33 @@ The developed solution evaluates customer behaviour and account-level attributes
 ![Business Analytics](https://img.shields.io/badge/Business--Analytics-Customer--Retention-success?style=flat)
 ![Predictive Analytics](https://img.shields.io/badge/Predictive--Analytics-Churn--Prediction-blue?style=flat)
 
-> ✅ **Industry Client Project** at Rubixe AI | Data Science Internship | Project Cycle Closed
+> ✅ **Industry Client Project** at Rubixe - AI Company| Data Science Research Internship | Project Cycle Closed
 
 [PROJECT DOCUMENTATION](docs/PRCL-0017_Customer_Churn_Business_case.pdf), you can find the complete business case documentation here.
 
 #### *This project demonstrates the application of Machine Learning and Data Science techniques to predict customer churn and support data-driven customer retention strategies.*
 
----
+## Features :
 
-### Features :
+1. **Customer Churn Prediction** - Predicts the likelihood of customer churn using trained machine learning classification models.
 
-1. **Customer Churn Prediction**
+2. **SQL-Based Data Acquisition** - Extracts and processes customer records from the `project_telecom` SQL database.
 
-   * Predicts the likelihood of customer churn using trained machine learning classification models.
+3. **Customer Behaviour Analysis** - Analyzes key customer usage and account metrics, including day, evening, night, and international call behaviour.
 
-2. **SQL-Based Data Acquisition**
+4. **Service & Account Analysis** - Evaluates service-related attributes such as international plans, voicemail plans, and customer support interactions.
 
-   * Extracts and processes customer records from the `project_telecom` SQL database.
+5. **Data Preprocessing** - Handles missing values, categorical variables, feature encoding, and numerical feature scaling.
 
-3. **Customer Behaviour Analysis**
+6. **Class Imbalance Handling** - Applies appropriate techniques to address class imbalance and improve predictive model performance.
 
-   * Analyzes key customer usage and account metrics, including day, evening, night, and international call behaviour.
+7. **Machine Learning Model Comparison** - Trains and compares multiple classification algorithms, including Decision Tree, Random Forest, and XGBoost.
 
-4. **Service & Account Analysis**
+8. **Business-Oriented Insights** - Identifies important customer characteristics and behavioural patterns associated with churn to support proactive retention strategies.
 
-   * Evaluates service-related attributes such as international plans, voicemail plans, and customer support interactions.
+9. **Model Performance** - The optimized XGBoost model achieved an accuracy of **93.83%** on the evaluated dataset.
 
-5. **Data Preprocessing**
-
-   * Handles missing values, categorical variables, feature encoding, and numerical feature scaling.
-
-6. **Class Imbalance Handling**
-
-   * Applies appropriate techniques to address class imbalance and improve predictive model performance.
-
-7. **Machine Learning Model Comparison**
-
-   * Trains and compares multiple classification algorithms, including Decision Tree, Random Forest, and XGBoost.
-
-8. **Business-Oriented Insights**
-
-   * Identifies important customer characteristics and behavioural patterns associated with churn to support proactive retention strategies.
-
-9. **Model Performance**
-
-   * The optimized XGBoost model achieved an accuracy of **93.83%** on the evaluated dataset.
-
----
-
-### Methodology :
+## Methodology :
 
 ### 1. Data Acquisition :
 
