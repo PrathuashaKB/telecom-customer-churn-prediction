@@ -31,7 +31,7 @@ The developed solution evaluates customer behaviour and account-level attributes
 
 > ✅ **Industry Client Project** at Rubixe - AI Company| Data Science Research Internship | Project Cycle Closed
 
-[PROJECT DOCUMENTATION](docs/PRCL-0017_Customer_Churn_Business_case.pdf), you can find the complete business case documentation here.
+[PROJECT NOTEBOOK](https://github.com/PrathuashaKB/telecom-customer-churn-prediction/blob/main/No_Churn_Telecom.ipynb), you can find the complete project implementation, data analysis, machine learning workflow, and model evaluation here.
 
 #### *This project demonstrates the application of Machine Learning and Data Science techniques to predict customer churn and support data-driven customer retention strategies.*
 
@@ -120,7 +120,7 @@ These insights can help businesses identify high-risk customers and develop targ
 
 ## System Design :
 
-<video src="https://raw.githubusercontent.com/PrathuashaKB/telecom-customer-churn-prediction/main/images/no_churn_system_design.mp4" width="100%" autoplay loop muted playsinline></video>
+![No Churn System Design](https://github.com/PrathuashaKB/telecom-customer-churn-prediction/blob/main/images/no_churn_system_design.gif)
 
 The system follows an end-to-end machine learning pipeline consisting of:
 
