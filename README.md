@@ -2,7 +2,7 @@
 
 <div>
   <p align="center">
-    <img src="images/Telecom Customer Churn Prediction Logo.png" width="800">
+    <img src="https://github.com/PrathuashaKB/telecom-customer-churn-prediction/blob/main/images/telecom_no_churn_logo.png" width="800">
   </p>
 </div>
 
@@ -120,7 +120,7 @@ These insights can help businesses identify high-risk customers and develop targ
 
 ## System Design :
 
-<img src="images/system_design.png" width="100%">
+<video src="https://github.com/PrathuashaKB/telecom-customer-churn-prediction/blob/main/images/no_churn_system_design.mp4" width="100%" autoplay loop muted playsinline></video>
 
 The system follows an end-to-end machine learning pipeline consisting of:
 
